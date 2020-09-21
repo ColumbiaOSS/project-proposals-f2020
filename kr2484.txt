@@ -1,0 +1,4 @@
+# Project ideas:
+
+1. A plug-in/extension which takes a recipe in a standard format (ingredients list/steps) and reformats it to make it more digestible/intuitive for following along (putting qtys in the steps as the ingredients are mentioned). Saw this idea online, but dont think it has been done.
+2. Collab with another student on a fully customizable calendar that can be integrated into apps
