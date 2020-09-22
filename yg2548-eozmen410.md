@@ -25,3 +25,5 @@ volga will allow you to *flow* your data into any format that you'd like.
 ```
 
 ## Future Enhancements
+
+Given the natura of the volga framework, anyone can implement any data format and be automatically supported by the library. Also, if your data structures are too complex for the generated (de)serealization protocols, you can always implement your own to define exactly how you want your data to flow.
