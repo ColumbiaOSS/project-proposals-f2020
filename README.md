@@ -1,5 +1,4 @@
-# project-proposals-f2020
-Project Proposals for Fall 2020
+# QuickQuestions
+iOS Quiz App Project for W4995-Fall 2020
 
-Put your project proposal in this repo in the form: `<uni>.md`.
-E.g. for me, i would make a file called `tkp2108.md`.
+Rapid-fire quiz questions to challenge your mind and push you to beat your high score. 
