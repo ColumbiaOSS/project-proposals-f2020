@@ -3,7 +3,7 @@
 
 ![GitHub](https://img.shields.io/github/license/juvariashahid/maintenace-of-well-being)
 
-### Background	### Background
+### Background
 
 MWB (maintenance of well being) is a program dedicated to equipping individuals with the science and technology of well-being primarily through meditation. Its founder, Dr. Nasar Shahid, a Pain Medicine Specialist in Teaneck, NJ founded this program when he realized that there exists 5 complex factors that stand in the way of an individual's journey to well-being; 
 
