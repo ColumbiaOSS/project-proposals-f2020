@@ -1,4 +1,4 @@
-<img src="https://github.com/drcarpio/patchwords/blob/master/images/logo-condensed.svg" width="75%"></image>
+<img src="https://github.com/drcarpio/patchwords/blob/master/images/logo-original.svg" width="75%"></image>
 <br>
 [![GitHub](https://img.shields.io/github/license/drcarpio/patchwords)](https://img.shields.io/github/license/drcarpio/patchwords)
 [![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/drcarpio/patchwords/CI/master)](https://img.shields.io/github/workflow/status/drcarpio/patchwords/CI/master)
