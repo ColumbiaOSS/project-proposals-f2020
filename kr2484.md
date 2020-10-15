@@ -1,6 +1,7 @@
 ## QuickQuestions
 ![GitHub](https://img.shields.io/github/license/karimerobles/quickquestions)
 ![Travis (.org)](https://img.shields.io/travis/karimerobles/quickquestions)
+[![codecov](https://codecov.io/gh/karimerobles/quickquestions/branch/master/graph/badge.svg?token=RF1QLASAI6)](undefined)
 
 Project link: https://github.com/karimerobles/quickquestions
 
