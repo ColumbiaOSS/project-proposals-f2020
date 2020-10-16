@@ -1,5 +1,6 @@
 ## QuickQuestions
 ![GitHub](https://img.shields.io/github/license/karimerobles/quickquestions)
+![Travis (.org)](https://img.shields.io/travis/karimerobles/quickquestions)
 
 Project link: https://github.com/karimerobles/quickquestions
 
