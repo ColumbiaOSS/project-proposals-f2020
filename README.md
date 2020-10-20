@@ -1,6 +1,5 @@
-## AMM Liquidity Tracker
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+# project-proposals-f2020
+Project Proposals for Fall 2020
 
-Track crypto currency liquidity in automated market maker platforms
-
-
+Put your project proposal in this repo in the form: `<uni>.md`.
+E.g. for me, i would make a file called `tkp2108.md`.
